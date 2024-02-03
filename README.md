@@ -2,7 +2,7 @@
 - 👀 I’m interested in money
 - 🌱 I’m currently learning how to earn money
 - 💞️ I’m looking to collaborate on cryptography 
-- 📫 How to reach me via github
+- 📫 How to reach me via github or X
 
 <!---
 cherong22070/cherong22070 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
